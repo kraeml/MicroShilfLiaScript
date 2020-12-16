@@ -2,11 +2,11 @@
 
 author:   Michael Schaar
 email:    kraeml@sesamestreet.franken.de
-version:  1.0.4
+version:  1.0.5
 language: DE
-narrator: US English Female
+narrator: DE German Male
 
-comment:  This is a very simple
+comment:  Das ist einfacher Text
 
 
 -->
@@ -29,5 +29,8 @@ Für die Mircoshilf von Dez 2020
 ## Rolf
 
 ## Michl
+
+              --{{1}}--
+Hallo Rolf und Rudi. Willkomen zur Microschilf 2020.
 
 Testzeile Eingefügt
