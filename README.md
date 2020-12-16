@@ -2,14 +2,18 @@
 
 author:   Michael Schaar
 email:    kraeml@sesamestreet.franken.de
-version:  1.0.3
+version:  1.0.4
 language: DE
 narrator: US English Female
 
-comment:  This is a very simple 
+comment:  This is a very simple
 
 
 -->
+
+# MicroShilfLiaScript
+
+Für die Mircoshilf von Dez 2020
 
 ``````````````````````````````````````````````````
                              .--->  F
@@ -18,9 +22,7 @@ comment:  This is a very simple
                          ^ v          /   '--->  G
                B --> C -'
 ``````````````````````````````````````````````````
-# MicroShilfLiaScript
 
-Für die Mircoshilf von Dez 2020
 
 ## Rudi
 
