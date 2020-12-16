@@ -21,7 +21,13 @@ translation: Русский  translations/Russian.md
 
 -->
 
-
+``````````````````````````````````````````````````
+                             .--->  F
+    A       B     C   D     /
+    *-------*-----*---*----*----->  E
+                         ^ v          /   '--->  G
+               B --> C -'
+``````````````````````````````````````````````````
 # MicroShilfLiaScript
 
 Für die Mircoshilf von Dez 2020
