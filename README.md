@@ -2,7 +2,7 @@
 
 author:   Michael Schaar
 email:    kraeml@sesamestreet.franken.de
-version:  1.0.5
+version:  1.0.6
 language: DE
 narrator: DE German Male
 
